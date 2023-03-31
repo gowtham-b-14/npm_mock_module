@@ -1,0 +1,1 @@
+npm mock package creation
